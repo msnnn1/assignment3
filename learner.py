@@ -1,3 +1,7 @@
+'''
+This program creates a Learner class and shows details.
+'''
+
 class Learner:
     def __init__(self):
         self.roll_no = ""
